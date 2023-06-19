@@ -6,7 +6,7 @@ npx thirdweb@latest create--contract
 project name : Crowd funding
 Framework : Hardhat   (Hardhat is a development environment for Ethereum software. 
                        It consists of different components for editing, compiling, debugging and deploying your smart contracts and dApps,
-                       all of which work together to create a complete development environment.)
+                       all of which work together to create a complete development environment.).
 Hosting on : thirdweb (thirdweb is a platform that provides a suite of tools for creators, artists, and entrepreneurs to easily build, launch and manage a Web3 project. )
 
 npm install dotenv  (Securing Environment variables)
