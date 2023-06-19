@@ -26,6 +26,6 @@ What is your project named? ... ./
 √ What framework do you want to use? » Vite  ==> React
 √ What language do you want to use? » JavaScript
 
-Step 2 : Creating React app 
+Step 2 : Creating React app .
 
 
