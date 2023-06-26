@@ -1,4 +1,4 @@
-# Crowd-funding-Dapps
+# Crowd-funding-Dapps  (Inprogress)
 
 Creating cmd line to ask ques regarding projects:
 npx thirdweb@latest create--contract
